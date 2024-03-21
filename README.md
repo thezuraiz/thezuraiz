@@ -1,18 +1,18 @@
 # Hi, I'm Zuraiz Khan! 👋
 
-### About Me:
+## 🚀 About Me:
 - 🌱 Currently learning more about Flutter.
 - 💬 Ask me about Flutter/Android.
 - 📱 I build apps (sometimes they're even good!) in my free time.
-- 📫 How to reach me: 
-    - <div><a href="https://www.linkedin.com/in/thezuraiz/" style="background-color: #0077B5; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">LinkedIn Zuraiz Khan</a></div>
-    - <div><a href="https://stackoverflow.com/users/22746182/zuraiz-khan" style="background-color: #F48024; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Stack Overflow - Zuraiz Khan</a></div>
-    - <div><a href="https://github.com/thezuraiz/" style="background-color: #333; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">GitHub - TheZuraiz</a></div>
 
+## 🔗 How to reach me: 
+[![Linkedin - Zuraiz Khan](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thezuraiz/)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-0A66C2?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22746182/zuraiz-khan)
+[![GitHub - TheZuraiz](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thezuraiz/)
 
 ---
 
-## Skills and Expertise:
+## 🛠 Skills and Expertise:
 
 - ### Flutter ![Flutter](https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/what_is_flutter_716ae56937.jpg)
   
