@@ -4,9 +4,11 @@
 - 🌱 Currently learning more about Flutter.
 - 💬 Ask me about Flutter/Android.
 - 📱 I build apps (sometimes they're even good!) in my free time.
-- 📫 How to reach me: [LinkedIn - Zuraiz Khan](https://www.linkedin.com/in/thezuraiz/)
-- 📫 How to reach me: [Stack OverFlow - Zuraiz Khan](https://stackoverflow.com/users/22746182/zuraiz-khan)
-- 📫 How to reach me: [GitHub - TheZuraiz](https://github.com/thezuraiz/)
+- 📫 How to reach me: 
+    - <div><a href="https://www.linkedin.com/in/thezuraiz/" style="background-color: #0077B5; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">LinkedIn Zuraiz Khan</a></div>
+    - <div><a href="https://stackoverflow.com/users/22746182/zuraiz-khan" style="background-color: #F48024; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Stack Overflow - Zuraiz Khan</a></div>
+    - <div><a href="https://github.com/thezuraiz/" style="background-color: #333; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">GitHub - TheZuraiz</a></div>
+
 
 ---
 
