@@ -42,11 +42,11 @@
 - [Programming Fundamentals - Selection & Iterations](https://www.coursera.org/account/accomplishments/verify/WQ6AQ9YWRJ5N?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Object-Oriented C++: Inheritance and Encapsulation](https://coursera.org/share/1f3cff300380bb3ac927311d930d2095)
 
-![Meta](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/2560px-Meta-Logo.png)
+![Meta](https://static.dezeen.com/uploads/2021/11/meta-facebook-rebranding-name-news_dezeen_2364_col_hero2.jpg)
 
 - [Programming with JavaScript](https://coursera.org/share/dd9b324837a12f561491c72c937f102e)
 
-![Shopify Ecommerce](https://1000logos.net/wp-content/uploads/2020/08/Shopify-Logo.png)
+![Shopify Ecommerce](https://www.ecommerce-nation.com/wp-content/uploads/2018/01/Shopify-ecommerce-platform.png.webp)
 
 - [Create your e-commerce store with Shopify](https://coursera.org/share/4e6301cb7322b6e264968af231661448)
 
