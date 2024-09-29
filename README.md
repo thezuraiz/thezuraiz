@@ -35,7 +35,7 @@
 ---
 
 ## Certifications:
-![Coursera](https://sisc.ro/wp-content/uploads/2022/08/coursera-logo-full-rgb.png)
+![Coursera](https://149357281.v2.pressablecdn.com/wp-content/uploads/2022/04/PR_Coursera_corporate_image_omni-coursera-blue-1.png)
 - [Flutter Certification](https://www.coursera.org/account/accomplishments/verify/AWSA3BR2J5M6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Dart Certification](https://www.coursera.org/account/accomplishments/verify/8EPW6URAFHMN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Programming Languages](https://www.coursera.org/account/accomplishments/verify/YQ3N7RLTHMGV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
