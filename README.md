@@ -25,17 +25,17 @@
 ### Other Skills:
 - UI/UX Design
 - Mobile App Development
-- Shopify Ecommerce Developer
+- Shopify E-commerce Developer
 
 ---
 
 ## Education:
-- Doing Bachelor of Computer Science from Riphah Internations University.
+- I am pursuing a Bachelor of Computer Science from Riphah International University.
 
 ---
 
 ## Certifications:
-![Coursera](https://cdn.cookielaw.org/logos/3e5657ed-0ab7-410b-95c6-ac68153c5668/a5631904-c2e8-407c-8481-ac7ee7f58040/830d9fa8-2c14-45a7-8afa-abc4792137f2/coursera-logo-full-rgb.png)
+![Coursera](https://sisc.ro/wp-content/uploads/2022/08/coursera-logo-full-rgb.png)
 - [Flutter Certification](https://www.coursera.org/account/accomplishments/verify/AWSA3BR2J5M6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Dart Certification](https://www.coursera.org/account/accomplishments/verify/8EPW6URAFHMN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Programming Languages](https://www.coursera.org/account/accomplishments/verify/YQ3N7RLTHMGV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
