@@ -1,4 +1,3 @@
-# 💫About Me :
 # Hi, I'm Zuraiz Khan! 👋
 
 ## 🚀 About Me:
@@ -47,7 +46,7 @@
 
 - [Programming with JavaScript](https://coursera.org/share/dd9b324837a12f561491c72c937f102e)
 
-![Shopify Ecommerce](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shopify_logo_2018.svg/1200px-Shopify_logo_2018.svg.png)
+![Shopify Ecommerce](https://www.citypng.com/public/uploads/preview/white-shopify-ecommerce-logo-701751694791303406qftjsfz.png)
 
 - [Create your e-commerce store with Shopify](https://coursera.org/share/4e6301cb7322b6e264968af231661448)
 
