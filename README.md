@@ -46,7 +46,7 @@
 
 - [Programming with JavaScript](https://coursera.org/share/dd9b324837a12f561491c72c937f102e)
 
-![Shopify Ecommerce](https://www.citypng.com/public/uploads/preview/white-shopify-ecommerce-logo-701751694791303406qftjsfz.png)
+![Shopify Ecommerce](https://freelogopng.com/images/all_img/1655873088shopify-logo-transparent.png)
 
 - [Create your e-commerce store with Shopify](https://coursera.org/share/4e6301cb7322b6e264968af231661448)
 
