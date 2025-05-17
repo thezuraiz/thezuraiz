@@ -12,6 +12,10 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thezuraiz&layout=compact)
+
+---
+
 ## 🛠 Skills and Expertise:
 
 - ### Flutter ![Flutter](https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/what_is_flutter_716ae56937.jpg)
